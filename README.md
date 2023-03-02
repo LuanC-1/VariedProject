@@ -1,2 +1,3 @@
 # VariedProject
-Varied Project
+
+Projects for initiation of studies in Python.
